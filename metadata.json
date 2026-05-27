@@ -1,0 +1,6 @@
+{
+  "name": "Time In and Time Out Tracker",
+  "description": "An elegant Tracker for Work from Home setups. Keep track of shifts, monitor multiple breaks, compute exact work hours, and analyze historic performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
